@@ -1,0 +1,17 @@
+# -------------------------------
+# 1. Ignorer les fichiers temporaires Excel
+# -------------------------------
+~$*.xlsx
+
+# -------------------------------
+# -------------------------------
+# Ignorer uniquement le dossier Prescription/data
+Prescription/data/
+Prescription/data/**
+
+
+# -------------------------------
+# 3. Ignorer les dossiers Jupyter
+# -------------------------------
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
