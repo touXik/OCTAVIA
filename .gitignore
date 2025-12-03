@@ -8,7 +8,8 @@
 # Ignorer uniquement le dossier Prescription/data
 Prescription/data/
 Prescription/data/**
-
+Dictionnair/data/
+Dictionnair/Bdpm_files/ 
 
 # -------------------------------
 # 3. Ignorer les dossiers Jupyter
