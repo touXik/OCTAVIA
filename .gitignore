@@ -16,3 +16,11 @@ Dictionnair/Bdpm_files/
 # -------------------------------
 .ipynb_checkpoints/
 **/.ipynb_checkpoints/
+
+# Ignorer tous les fichiers Excel
+*.xls
+*.xlsx
+*.xlsm
+*.xlsb
+*.xltx
+
